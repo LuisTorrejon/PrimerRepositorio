@@ -1,5 +1,5 @@
 # Simplemente primera prueba de GITHUB Repository 
 
-PrimerRepositorio
+# PrimerRepositorio
 
-[poner un link en en reedme] ( https://google.com )
+# [poner un link en en reedme] ( https://google.com )
